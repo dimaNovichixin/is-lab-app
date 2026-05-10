@@ -1637,31 +1637,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cronp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/novichixind/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\is-labs\\lab4\\IsLabApp\\IsLabApp\\IsLabApp.csproj",
+      "projectUniqueName": "/home/novichixind/is-labs/IsLabApp/IsLabApp/IsLabApp.csproj",
       "projectName": "IsLabApp",
-      "projectPath": "C:\\is-labs\\lab4\\IsLabApp\\IsLabApp\\IsLabApp.csproj",
-      "packagesPath": "C:\\Users\\cronp\\.nuget\\packages\\",
-      "outputPath": "C:\\is-labs\\lab4\\IsLabApp\\IsLabApp\\obj\\",
+      "projectPath": "/home/novichixind/is-labs/IsLabApp/IsLabApp/IsLabApp.csproj",
+      "packagesPath": "/home/novichixind/.nuget/packages/",
+      "outputPath": "/home/novichixind/is-labs/IsLabApp/IsLabApp/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cronp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/novichixind/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1674,13 +1667,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "10.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -1714,7 +1701,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.126/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
